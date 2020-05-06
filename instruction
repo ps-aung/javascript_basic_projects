@@ -1,0 +1,7 @@
+For Forkify project run 
+(1) npm install
+(2) npm run start
+
+for node js project run
+(1) npm nodemon need to install
+(2) nodemon
